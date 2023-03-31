@@ -1,4 +1,4 @@
-# 24onbd-API
+# Web Scrapping With Adonis JS (API)
 
 
 
@@ -15,14 +15,14 @@ Already a pro? Just edit this README.md and make it your own. Want to make it ea
 
 ```
 cd existing_repo
-git remote add origin https://gitlab.com/dev.unisearch/24onbd-api.git
+git remote add origin https://github.com/omelab/Web-Scraping-with-Adonis-JS
 git branch -M main
 git push -uf origin main
 ```
 
 ## Integrate with your tools
 
-- [ ] [Set up project integrations](https://gitlab.com/dev.unisearch/24onbd-api/-/settings/integrations)
+- [ ] [Set up project integrations](https://github.com/omelab/Web-Scraping-with-Adonis-JS/-/settings/integrations)
 
 ## Collaborate with your team
 
